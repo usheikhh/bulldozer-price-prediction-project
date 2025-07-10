@@ -1,5 +1,3 @@
 venv/
 data/*
-!data/TrainAndValid.csv
-!data/train_tmp.csv
 !data/Test.csv
